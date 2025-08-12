@@ -1,0 +1,9 @@
+# Ignore YOLO model file
+yolov8n.pt
+
+# Ignore the output directory
+out_dir/
+
+# large artifacts
+*.pt
+*.mp4
